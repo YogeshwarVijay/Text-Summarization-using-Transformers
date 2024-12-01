@@ -1,4 +1,4 @@
-Text Summarization App
+#Text Summarization App
 This is a simple text summarization application built with Streamlit and TensorFlow. It allows users to enter text and generate summaries using different models like T5, PEGASUS, and BART.
 
 Getting Started

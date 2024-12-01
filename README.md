@@ -23,3 +23,16 @@ Install the required dependencies using the following command:
 
 ```bash
 pip install streamlit transformers tensorflow openai
+```
+## OpenAI API Key
+
+To use GPT-3, you need to sign up for an OpenAI API key. Visit [OpenAI's website](https://platform.openai.com/signup/) to get started.
+
+---
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/YogeshwarVijay/Text-Summarization-using-Transformers.git
